@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_atc_pizza_shop">Kedai Pizza yang Sebenar</string>
+    <string name="schedule_a_pickup">Schedule a pickup</string>
+    <string name="full_name">Full Name:</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="schedule">Schedule</string>
+    <string name="selected_time">Selected Time</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_size">Select Size</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="prize_small_5_medium_7_large_10_extra_large_20">Prize Small $5,Medium $7,Large $10,Extra Large $20</string>
+    <string name="select_your_pizza_size">Select your pizza size</string>
+    <string name="send">send</string>
+    <string name="size">Size</string>
+</resources>
